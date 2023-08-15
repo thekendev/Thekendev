@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanayo Justice</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer from Nigeria</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer living in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekendev&label=Profile%20views&color=0e75b6&style=flat" alt="thekendev" /> </p>
 

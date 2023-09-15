@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thekendev" target="blank"><img src="https://img.shields.io/twitter/follow/thekendev?logo=twitter&style=for-the-badge" alt="thekendev" /></a> </p>
 
-- 🔭 I’m currently working on [Langchain chatbot]([https://github.com/thekendev/Timeseries-with-python](https://github.com/thekendev/final_year_project/tree/main/project_codes/Langchain_chatbot))
+- 🔭 I’m currently working on [Langchain chatbot]([https://github.com/thekendev/final_year_project/tree/main/project_codes/Langchain_chatbot]) 
 
 - 🌱 I’m currently learning **Machine learning algorithms**
 

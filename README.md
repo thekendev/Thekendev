@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekendev&label=Profile%20views&color=0e75b6&style=flat" alt="thekendev" /> </p>
 
 <p align="left"> 
-  <a href="https://instagram.com/thekendev" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on-Instagram-blue?style=for-the-badge&logo=instagram" alt="thekendev" />
+  <a href="https://instagram.com/theken.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-theken.dev-blue?style=for-the-badge&logo=instagram" alt="theken.dev" />
   </a> 
 </p>
 

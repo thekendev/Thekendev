@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekendev&label=Profile%20views&color=0e75b6&style=flat" alt="thekendev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thekendev" target="blank"><img src="https://img.shields.io/twitter/follow/thekendev?logo=twitter&style=for-the-badge" alt="thekendev" /></a> </p>
+<p align="left"> 
+  <a href="https://instagram.com/thekendev" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-Instagram-blue?style=for-the-badge&logo=instagram" alt="thekendev" />
+  </a> 
+</p>
+
 
 - 🔭 I’m currently working on [Langchain chatbot]([https://github.com/thekendev/final_year_project/tree/main/project_codes/Langchain_chatbot]) 
 
